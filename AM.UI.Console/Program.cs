@@ -10,9 +10,9 @@ Passenger passenger = new Passenger
 {
     FirstName = "Rami",
     LastName = "Tabib",
-    EmailAddress = "tabib.rami@esprit.tn"
+    EmailAddress = "**.**@esprit.tn"
 };
-//Console.WriteLine(passenger.CheckProfileReplacemenet("Tabib", "Rami", "tabib.rami@esprit.tn"));
+//Console.WriteLine(passenger.CheckProfileReplacemenet("Tabib", "Rami", "**.**@esprit.tn"));
 Staff staff = new Staff { };
 Traveller tr = new Traveller { };
 //passenger.PassengerType();
