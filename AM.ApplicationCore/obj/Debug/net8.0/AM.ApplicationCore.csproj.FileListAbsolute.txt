@@ -21,3 +21,4 @@ C:\Users\Mon Pc\source\repos\AM.UI.Console\AM.ApplicationCore\obj\Debug\net8.0\A
 C:\Users\Mon Pc\source\repos\AM.UI.Console\AM.ApplicationCore\obj\Debug\net8.0\refint\AM.ApplicationCore.dll
 C:\Users\Mon Pc\source\repos\AM.UI.Console\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.pdb
 C:\Users\Mon Pc\source\repos\AM.UI.Console\AM.ApplicationCore\obj\Debug\net8.0\ref\AM.ApplicationCore.dll
+C:\Users\Mon Pc\source\repos\AM.UI.Console\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.sourcelink.json

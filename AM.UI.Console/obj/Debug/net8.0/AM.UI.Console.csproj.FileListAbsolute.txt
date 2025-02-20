@@ -35,3 +35,4 @@ C:\Users\Mon Pc\source\repos\AM.UI.Console\AM.UI.Console\obj\Debug\net8.0\refint
 C:\Users\Mon Pc\source\repos\AM.UI.Console\AM.UI.Console\obj\Debug\net8.0\AM.UI.Console.pdb
 C:\Users\Mon Pc\source\repos\AM.UI.Console\AM.UI.Console\obj\Debug\net8.0\AM.UI.Console.genruntimeconfig.cache
 C:\Users\Mon Pc\source\repos\AM.UI.Console\AM.UI.Console\obj\Debug\net8.0\ref\AM.UI.Console.dll
+C:\Users\Mon Pc\source\repos\AM.UI.Console\AM.UI.Console\obj\Debug\net8.0\AM.UI.Console.sourcelink.json

@@ -8,8 +8,8 @@ Plane p=new Plane();
 //Console.WriteLine(p.ToString());
 Passenger passenger = new Passenger
 {
-    FirstName = "Rami",
-    LastName = "Tabib",
+    FirstName = "rami",
+    LastName = "tabib",
     EmailAddress = "**.**@esprit.tn"
 };
 //Console.WriteLine(passenger.CheckProfileReplacemenet("Tabib", "Rami", "**.**@esprit.tn"));
@@ -33,4 +33,6 @@ f.Flights = TestData.listFlights;
 //{
 //    Console.WriteLine(pass.BirthDate);
 //}
-f.DestinationGroupedFlights();
+//f.DestinationGroupedFlights();
+passenger.UpperFullName();
+System.Console.WriteLine(passenger.FirstName+" "+passenger.LastName);
